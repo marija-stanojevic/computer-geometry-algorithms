@@ -1,0 +1,16 @@
+C:\Users\Korisnik\Desktop\VsebnostniTest\VsebnostniTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\VsebnostniTest\VsebnostniTest\bin\Debug\VsebnostniTest.exe
+C:\Users\Korisnik\Desktop\VsebnostniTest\VsebnostniTest\bin\Debug\VsebnostniTest.pdb
+C:\Users\Korisnik\Desktop\VsebnostniTest\VsebnostniTest\obj\x86\Debug\VsebnostniTest.exe
+C:\Users\Korisnik\Desktop\VsebnostniTest\VsebnostniTest\obj\x86\Debug\VsebnostniTest.pdb
+D:\FERI\ERASMUS 2. semester\Uvod v racunalnisko geometrijo\VsebnostniTest\VsebnostniTest\obj\x86\Debug\VsebnostniTest.exe
+D:\FERI\ERASMUS 2. semester\Uvod v racunalnisko geometrijo\VsebnostniTest\VsebnostniTest\obj\x86\Debug\VsebnostniTest.pdb
+D:\FERI\ERASMUS 2. semester\Uvod v racunalnisko geometrijo\VsebnostniTest\VsebnostniTest\bin\Debug\VsebnostniTest.exe
+D:\FERI\ERASMUS 2. semester\Uvod v racunalnisko geometrijo\VsebnostniTest\VsebnostniTest\bin\Debug\VsebnostniTest.pdb
+D:\FERI\ERASMUS 2. semester\Uvod v racunalnisko geometrijo\VsebnostniTest\VsebnostniTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\For Github\Uvod v racunalnisko geometrijo\VsebnostniTest\VsebnostniTest\bin\Debug\VsebnostniTest.exe
+E:\For Github\Uvod v racunalnisko geometrijo\VsebnostniTest\VsebnostniTest\bin\Debug\VsebnostniTest.pdb
+E:\For Github\Uvod v racunalnisko geometrijo\VsebnostniTest\VsebnostniTest\obj\x86\Debug\VsebnostniTest.csprojResolveAssemblyReference.cache
+E:\For Github\Uvod v racunalnisko geometrijo\VsebnostniTest\VsebnostniTest\obj\x86\Debug\VsebnostniTest.csproj.CoreCompileInputs.cache
+E:\For Github\Uvod v racunalnisko geometrijo\VsebnostniTest\VsebnostniTest\obj\x86\Debug\VsebnostniTest.exe
+E:\For Github\Uvod v racunalnisko geometrijo\VsebnostniTest\VsebnostniTest\obj\x86\Debug\VsebnostniTest.pdb

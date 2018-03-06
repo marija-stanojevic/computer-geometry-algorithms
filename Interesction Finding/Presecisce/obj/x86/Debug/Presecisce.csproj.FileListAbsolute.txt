@@ -1,0 +1,22 @@
+C:\Users\Korisnik\Desktop\Presecisce\Presecisce\bin\Debug\Presecisce.exe
+C:\Users\Korisnik\Desktop\Presecisce\Presecisce\bin\Debug\Presecisce.pdb
+C:\Users\Korisnik\Desktop\Presecisce\Presecisce\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Presecisce\Presecisce\obj\x86\Debug\Presecisce.Form1.resources
+C:\Users\Korisnik\Desktop\Presecisce\Presecisce\obj\x86\Debug\Presecisce.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Presecisce\Presecisce\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Korisnik\Desktop\Presecisce\Presecisce\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Korisnik\Desktop\Presecisce\Presecisce\obj\x86\Debug\Presecisce.exe
+C:\Users\Korisnik\Desktop\Presecisce\Presecisce\obj\x86\Debug\Presecisce.pdb
+C:\Users\Korisnik\Desktop\Presecisce\Presecisce\obj\x86\Debug\Presecisce.Form2.resources
+D:\FERI+ERASMUS\ERASMUS 2. semester\Uvod v racunalnisko geometrijo\Presecisce\Presecisce\obj\x86\Debug\Presecisce.exe
+D:\FERI+ERASMUS\ERASMUS 2. semester\Uvod v racunalnisko geometrijo\Presecisce\Presecisce\obj\x86\Debug\Presecisce.pdb
+E:\For Github\Uvod v racunalnisko geometrijo\Presecisce\Presecisce\bin\Debug\Presecisce.exe
+E:\For Github\Uvod v racunalnisko geometrijo\Presecisce\Presecisce\bin\Debug\Presecisce.pdb
+E:\For Github\Uvod v racunalnisko geometrijo\Presecisce\Presecisce\obj\x86\Debug\Presecisce.csprojResolveAssemblyReference.cache
+E:\For Github\Uvod v racunalnisko geometrijo\Presecisce\Presecisce\obj\x86\Debug\Presecisce.Form1.resources
+E:\For Github\Uvod v racunalnisko geometrijo\Presecisce\Presecisce\obj\x86\Debug\Presecisce.Form2.resources
+E:\For Github\Uvod v racunalnisko geometrijo\Presecisce\Presecisce\obj\x86\Debug\Presecisce.Properties.Resources.resources
+E:\For Github\Uvod v racunalnisko geometrijo\Presecisce\Presecisce\obj\x86\Debug\Presecisce.csproj.GenerateResource.Cache
+E:\For Github\Uvod v racunalnisko geometrijo\Presecisce\Presecisce\obj\x86\Debug\Presecisce.csproj.CoreCompileInputs.cache
+E:\For Github\Uvod v racunalnisko geometrijo\Presecisce\Presecisce\obj\x86\Debug\Presecisce.exe
+E:\For Github\Uvod v racunalnisko geometrijo\Presecisce\Presecisce\obj\x86\Debug\Presecisce.pdb

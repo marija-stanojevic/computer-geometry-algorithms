@@ -1,0 +1,9 @@
+C:\Users\Korisnik\Desktop\Triangulacija\Triangulacija\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Triangulacija\Triangulacija\obj\x86\Debug\Triangulacija.Form1.resources
+C:\Users\Korisnik\Desktop\Triangulacija\Triangulacija\obj\x86\Debug\Triangulacija.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Triangulacija\Triangulacija\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Korisnik\Desktop\Triangulacija\Triangulacija\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Korisnik\Desktop\Triangulacija\Triangulacija\bin\Debug\Triangulacija.exe
+C:\Users\Korisnik\Desktop\Triangulacija\Triangulacija\bin\Debug\Triangulacija.pdb
+C:\Users\Korisnik\Desktop\Triangulacija\Triangulacija\obj\x86\Debug\Triangulacija.exe
+C:\Users\Korisnik\Desktop\Triangulacija\Triangulacija\obj\x86\Debug\Triangulacija.pdb
